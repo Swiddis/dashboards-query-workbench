@@ -43,7 +43,7 @@ Example output: `./build/query-workbench-dashboards*.zip`
 
 ## Run
 
-- `yarn start`
+- `cd` to the `OpenSearch-Dashboards` directory and run `yarn start`
 
   Starts OpenSearch Dashboards and includes this plugin. OpenSearch Dashboards will be available on `localhost:5601`.
 
